@@ -1,6 +1,6 @@
 # How Scrum as an agile methodology works
 
-Scrum, is an agile methodology to work in teams. The main characteristic of scrum are its "sprints"
+Scrum, is an agile methodology to work in teams. The main characteristic of scrum is its "sprints"
 
 Sprint:
 
