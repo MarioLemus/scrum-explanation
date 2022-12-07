@@ -47,6 +47,4 @@ Is a place where the user stories are placed to see the process of the "to-do" d
 
 - E.G: TABLE'S STRUCTURE OF USER STORIES AND THEIR PROGRESS DURING THE SPRINT
 
-|---------------------------------------|
 | TO-DO | IN PROGRESS | RESOLVED | DONE |
-|---------------------------------------|
